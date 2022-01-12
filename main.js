@@ -2,7 +2,7 @@ function preload(){}
 
 function setup(){
     canvas = createCanvas(350, 350);
-    canvas.center;
+    canvas.center();
 }
 
 function draw(){}
